@@ -1,0 +1,20 @@
+{
+  "appId": "com.ava.browser",
+  "appName": "Ava",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "ios": {
+    "contentInset": "automatic"
+  },
+  "android": {
+    "allowMixedContent": true
+  },
+  "plugins": {
+    "StatusBar": {
+      "style": "LIGHT",
+      "backgroundColor": "#E8F2EF"
+    }
+  }
+}
